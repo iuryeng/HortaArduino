@@ -1,2 +1,2 @@
 # oficinaArduino
-Repositório de algorítimos utilizados durante as oficinas de programação de C usando Arduíno. 
+Repositório de algorítimos utilizados durante as oficinas de programação em C usando Arduíno. 
