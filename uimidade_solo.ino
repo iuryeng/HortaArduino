@@ -6,7 +6,7 @@
 
 
 // defina o pino de ligação do sensor de umidade do solo
-#define    analogico  A1 
+#define   analogico  A1 
 // declare a variável global contendo o valor lido do sensor
 int valor_lido = 0; 
 
@@ -26,44 +26,42 @@ void loop()
   valor_lido = analogRead(analogico);                         
 
   //imprima para o usuário o valor do sensor 
-  Serial.print(" Umidade: ");                                
+  Serial.print("Umidade: ");                                
   Serial.print(valor_lido); 
                                             
   //declare a faixa de valores em que a umidade é total
   if (valor_lido > 0 && valor_lido < 169)             
   {
-    Serial.println(" Umidade: Total"); 
+    Serial.println(" Umidade: Solo totalmente umido"); 
   }
 
   //declare a faixa de valores em que a umidade é média
   else if (valor_lido > 169 && valor_lido < 340)   
   {
-    Serial.println(" Umidade: Media"); 
+    Serial.println(" Umidade: Solo muito umido"); 
   }
  
   //declare a faixa de valores em que a umidade é mínima
   else if (valor_lido > 340 && valor_lido < 511)  
   {
-    Serial.println(" Umidade: Mínima");
+    Serial.println(" Umidade: Solo umido");
   }
   //declare a faixa de valores em que o solo está secando 
   else if (valor_lido > 511 && valor_lido < 853)  
   {
-    Serial.println(" Umidade: Secando"); 
+    Serial.println(" Umidade: Solo quase Seco"); 
   }
 
   //declare a faixa de valores em que o solo está seco
   else if (valor_lido > 853 && valor_lido < 1024)    
   {
-    Serial.println(" Umidade: Seco");
+    Serial.println(" Umidade: Solo seco");
   }
   
   //defina o tempo de espera para o proximo loop                         
-  delay(500);     //tempo de espera para o proximo loop    
-  
+  delay(500);    
 } 
 
 
 
- 
  
