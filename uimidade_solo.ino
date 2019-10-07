@@ -26,36 +26,36 @@ void loop()
   valor_lido = analogRead(analogico);                         
 
   //imprima para o usuário o valor do sensor 
-  Serial.print("Umidade: ");                                
+  Serial.print(" Umidade: ");                                
   Serial.print(valor_lido); 
                                             
   //declare a faixa de valores em que a umidade é total
   if (valor_lido > 0 && valor_lido < 169)             
   {
-    Serial.println("Umidade: Total"); 
+    Serial.println(" Umidade: Total"); 
   }
 
   //declare a faixa de valores em que a umidade é média
   else if (valor_lido > 169 && valor_lido < 340)   
   {
-    Serial.println("Umidade: Media"); 
+    Serial.println(" Umidade: Media"); 
   }
  
   //declare a faixa de valores em que a umidade é mínima
   else if (valor_lido > 340 && valor_lido < 511)  
   {
-    Serial.println("Umidade: Mínima");
+    Serial.println(" Umidade: Mínima");
   }
   //declare a faixa de valores em que o solo está secando 
   else if (valor_lido > 511 && valor_lido < 853)  
   {
-    Serial.println("Umidade: Secando"); 
+    Serial.println(" Umidade: Secando"); 
   }
 
   //declare a faixa de valores em que o solo está seco
   else if (valor_lido > 853 && valor_lido < 1024)    
   {
-    Serial.println("Umidade: Seco");
+    Serial.println(" Umidade: Seco");
   }
   
   //defina o tempo de espera para o proximo loop                         
