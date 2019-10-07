@@ -4,7 +4,6 @@
 //Medição da umidade do solo 
 //===============================================
 
-
 // defina o pino de ligação do sensor de umidade do solo
 #define   analogico  A1 
 // declare a variável global contendo o valor lido do sensor
