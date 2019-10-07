@@ -4,7 +4,7 @@
 //Acionamento da bomda d'agua 
 //===============================================
 
-// defina o peino D7 como saída
+// defina o pino D7 como saída para o rele
 #define pino_saida  7
 void setup() {
   pinMode(pino_saida, OUTPUT);
