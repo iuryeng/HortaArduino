@@ -93,8 +93,7 @@ void loop()
   //declare a faixa de valores em que o solo está secando 
   else if (valor_lido > 511 && valor_lido < 700)  
   {
-    estado = "Solo quase seco"; 
-     
+    estado = "Solo quase seco";     
     
   }
 
