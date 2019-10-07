@@ -15,6 +15,7 @@ OneWire sensor(DS18B20);
 DallasTemperature sensor_temp(&sensor);
 
 void setup() {
+  
   //defina a velocidade de comunicação com o monitor serial em 9800
   Serial.begin(9800);
   // inicialize a leitura do sensor DS18B20
@@ -22,6 +23,7 @@ void setup() {
 }
 
 void loop() {
+  
   //capture o valor fornecido pelo sensor
   sensor_temp.requestTemperatures();
   //Imprima o valor capturado para o monitor serial
