@@ -1,7 +1,7 @@
 //==================================================================
 //Oficinas de programação em C usando o Arduino
 //Autor: Iury Anderson Fernandes Coelho
-//Medição da umidade do solo 
+//Medição da umidade do solo com interface via display oled
 //==================================================================
 
 //==================================================================
@@ -61,6 +61,7 @@ void loop()
     //imprima o valor lido no display
     display.print("Valor lido:");
     display.print(valor_lido);
+    //imprima o estado do solo
     display.setCursor(27,20);
     display.print(estado);
     
