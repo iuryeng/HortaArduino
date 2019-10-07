@@ -3,8 +3,6 @@
 //Autor: Iury Anderson Fernandes Coelho
 //Medição da umidade do solo com interface via display oled
 //==================================================================
-
-//==================================================================
 //Ligação dos terminais do display no arduino e do sensor de umidade
 //SCK_PIN --- A5  
 //SDA_PIN --- A4
