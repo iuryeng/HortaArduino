@@ -26,7 +26,7 @@ void loop()
   valor_lido = analogRead(analogico);                         
 
   //imprima para o usuário o valor do sensor 
-  Serial.print("Umidade: ");                                
+  Serial.print("Valor lido: ");                                
   Serial.print(valor_lido); 
                                             
   //declare a faixa de valores em que a umidade é total
