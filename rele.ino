@@ -11,6 +11,7 @@ void setup() {
 }
  
 void loop() {
+  
   // ative o relé
   digitalWrite(pino_saida, HIGH);   
   //espere 1000 milissegundos
