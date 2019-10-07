@@ -4,6 +4,7 @@
 //Interface dysplay oled informando a temperatura captada com o sensor digital DS18B20 
 //===================================================================================
 
+
 //importe a biblioteca necessária
 #include <DallasTemperature.h>
 #include <SPI.h>
