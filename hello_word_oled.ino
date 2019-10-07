@@ -3,8 +3,6 @@
 //Autor: Iury Anderson Fernandes Coelho
 //Hello word tela de oled
 //===============================================
-
-//===============================================
 //Ligação dos terminais do sensor no arduino
 //SCK_PIN --- A5  
 //SDA_PIN --- A4
