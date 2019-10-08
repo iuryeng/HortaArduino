@@ -43,7 +43,7 @@
 
 ## Algorítimos
 
-```C/C++
+```c/c++
 // Medição da temperatura com sensor digital DS18B20 
 
 l//importe a biblioteca necessária
