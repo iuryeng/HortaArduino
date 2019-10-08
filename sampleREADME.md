@@ -22,11 +22,9 @@
 ---
 ## Instalação 
 
-## Contributing
+> Vamos comerçar...
 
-> To get started...
-
-### Step 1
+### Passo 1
 
 - **Option 1**
     - 🍴 Fork this repo!
