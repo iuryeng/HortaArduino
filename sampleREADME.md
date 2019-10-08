@@ -3,13 +3,13 @@
 
 # Projeto: Horta Automatizada com Arduino
 
-> Subtitle or Short Description Goes Here
+> IFPB -  Instituto de Federal Ciências e Tecnologia da Paraíba 
 
-> ideally one sentence
+> Núcleo de Inovação e Tecnolgia Educacional
 
-> include terms/tags that can be searched
+> Autor: Iury Anderson Fernandes Coelho
 
-**Badges will go here**
+**Conteúdo da documentação**
 
 - build status
 - issues (waffle.io maybe)
