@@ -9,49 +9,14 @@
 
 > Autor: Iury Anderson Fernandes Coelho
 
-**Conteúdo da documentação**
-- introdução
-- downloads
-- materiais utilizados
-- montagens de hardware
 
- [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
-
-
-***INSERT ANOTHER GRAPHIC HERE***
-
-[![INSERT YOUR GRAPHIC HERE](https://imgur.com/a/SFM6KWT)]()
-
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
-
-> Tips
-
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
-
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
-
-**Recordit**
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
-
-**ttystudio**
-
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
-
----
-
-## Table of Contents (Optional)
+## Conteúdo
 
 > If you're `README` has a lot of info, section headers might be nice.
 
-- [Installation](#installation)
-- [Features](#features)
+- [Instalação do Arduino](#installation)
+- [Download das Bibliotecas](#installation)
+- [Materiais Utilizados](#features)
 - [Contributing](#contributing)
 - [Team](#team)
 - [FAQ](#faq)
