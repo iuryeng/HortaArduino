@@ -24,27 +24,11 @@
 
 > Vamos comerçar...
 
-### Passo 1
+- você irá precisar instalar o ambiente de desenvolvimento integrado - IDE, do arduino.
+- acesse o site oficial do arduino para obter mais informações: https://www.arduino.cc/
+- entre em: https://www.arduino.cc/en/Main/Software e faça o downlaod da IDE do arduino de acordo com as especificações de seu sistema operacional
 
-- **Option 1**
-    - 🍴 Fork this repo!
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
-
-### Step 2
-
-- **HACK AWAY!** 🔨🔨🔨
-
-### Step 3
-
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
-
----
-
-- All the `code` required to get started
-- Images of what it should look like
----
 
 ## Download das Bibliotecas (Optional)
 
