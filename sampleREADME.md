@@ -42,6 +42,7 @@
 - DallasTemperature.h
 
 ## Algorítimos em C/C++
+> Nesta seção serão apresentados os algorítimos e suas respectivas finalidades
 
 - Algorítimo 1
 - __Propósito: medição da temperatura com sensor digital DS18B20__
