@@ -1,5 +1,5 @@
 
-# Projeto: Horta Automatizada com Arduino
+# Horta Automatizada com Arduino
 
 > IFPB -  Instituto de Federal Ciências e Tecnologia da Paraíba. 
 
