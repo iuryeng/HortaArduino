@@ -41,12 +41,12 @@
 - Adafruit_SSD1306.h
 - DallasTemperature.h
 
-## Algorítimos
+## Algorítimos em C/C++
 
 - Algorítimo 1
-- Proposito: medição da temperatura com sensor digital DS18B20
+- __Proposito: medição da temperatura com sensor digital DS18B20__
 
-```c/c++
+```c
 // Medição da temperatura com sensor digital DS18B20 
 
 //importe a biblioteca necessária
