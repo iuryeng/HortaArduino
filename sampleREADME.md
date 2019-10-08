@@ -24,16 +24,15 @@
 
 > Vamos comerçar...
 
-- você irá precisar instalar o ambiente de desenvolvimento integrado - IDE, do arduino.
-- acesse o site oficial do arduino para obter mais informações: https://www.arduino.cc/
-- entre em: https://www.arduino.cc/en/Main/Software e faça o downlaod da IDE do arduino de acordo com as especificações de seu sistema operacional
+- você irá precisar instalar o ambiente de desenvolvimento integrado - IDE, do arduino;
+- acesse o site oficial do arduino para obter mais informações: https://www.arduino.cc/;
+- entre em: https://www.arduino.cc/en/Main/Software e faça o downlaod da IDE do arduino de acordo com as especificações de seu sistema operacional.
 
 
+## Download das Bibliotecas
 
-## Download das Bibliotecas (Optional)
-
-- All the `code` required to get started
-- Images of what it should look like
+- Para que seu projeto rode adequadamente será necessário fazer o download das seguintes bibliotecas: 
+-- Images of what it should look like
 ---
 
 ## Algorítimos
