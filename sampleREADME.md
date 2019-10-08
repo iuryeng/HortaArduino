@@ -1,7 +1,7 @@
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
-# Projeto Horta Automatizada com Arduino
+# Projeto: Horta Automatizada com Arduino
 
 > Subtitle or Short Description Goes Here
 
@@ -28,7 +28,7 @@
 
 ***INSERT ANOTHER GRAPHIC HERE***
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+[![INSERT YOUR GRAPHIC HERE](https://imgur.com/a/SFM6KWT)]()
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
