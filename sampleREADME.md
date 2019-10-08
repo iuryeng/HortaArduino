@@ -78,9 +78,11 @@ void loop() {
 }
 ```
 
-```c
 - Algorítimo 2
 - __Propósito: medição da umidade do solo__
+
+```c
+//Medição da umidade do solo 
 
 // defina o pino de ligação do sensor de umidade do solo
 #define   analogico  A1 
