@@ -1,9 +1,11 @@
 
 # Projeto: Horta Automatizada com Arduino
 
-> IFPB -  Instituto de Federal Ciências e Tecnologia da Paraíba 
+> IFPB -  Instituto de Federal Ciências e Tecnologia da Paraíba. 
 
-> Núcleo de Inovação e Tecnolgia Educacional
+> Núcleo de Inovação e Tecnolgia Educacional.
+
+> Curso de Engenharia de Computação.
 
 > Autor: Iury Anderson Fernandes Coelho
 
