@@ -51,12 +51,15 @@
 // Medição da temperatura com sensor digital DS18B20 
 
 //importe a biblioteca necessária
+
 #include <DallasTemperature.h>
 
 //defina o pino de leitura do sensor
 #define DS18B20 8
+
 //intancie ourwire para se comunicar com o sensor DS18B20
 OneWire sensor(DS18B20);
+
 //passe o valor fornecido para dallastemperature
 DallasTemperature sensor_temp(&sensor);
 
@@ -64,6 +67,7 @@ void setup() {
   
   //defina a velocidade de comunicação com o monitor serial em 9800
   Serial.begin(9800);
+  
   // inicialize a leitura do sensor DS18B20
   sensor_temp.begin();
 }
@@ -72,8 +76,10 @@ void loop() {
   
   //capture o valor fornecido pelo sensor
   sensor_temp.requestTemperatures();
+  
   //Imprima o valor capturado para o monitor serial
   Serial.println(sensor_temp.getTempCByIndex(0));
+  
   //espere 700 milissegundos
   delay(700);
 }
@@ -87,6 +93,7 @@ void loop() {
 
 // defina o pino de ligação do sensor de umidade do solo
 #define   analogico  A1 
+
 // declare a variável global contendo o valor lido do sensor
 int valor_lido = 0; 
 
@@ -95,8 +102,9 @@ void setup()
 {
     //defina a taxa de transmissão de dados como 9600
     Serial.begin(9600);  
+    
     //defina o estado do pino analigico A0 como pino de entrada  
-    pinMode(analogico,  INPUT);    
+    pinMode(analogico,  INPUT);   
 
 } 
 // inicialize as definiçoes que irão ser tratadas no loop infinito do arduino
@@ -126,6 +134,7 @@ void loop()
   {
     Serial.println(" Umidade: Solo umido");
   }
+  
   //declare a faixa de valores em que o solo está secando 
   else if (valor_lido > 511 && valor_lido < 853)  
   {
@@ -139,7 +148,8 @@ void loop()
   }
   
   //defina o tempo de espera para o proximo loop                         
-  delay(500);    
+  delay(500);   
+  
 } 
 ```
 
