@@ -43,10 +43,13 @@
 
 ## Algorítimos
 
+- Algorítimo 1
+- Proposito: medição da temperatura com sensor digital DS18B20
+
 ```c/c++
 // Medição da temperatura com sensor digital DS18B20 
 
-l//importe a biblioteca necessária
+//importe a biblioteca necessária
 #include <DallasTemperature.h>
 
 //defina o pino de leitura do sensor
