@@ -36,8 +36,8 @@
 
 
 ## Download das Bibliotecas
+> Para que seu projeto rode adequadamente será necessário que você baixe as bibliotecas listadas abaixo: 
 
-- Para que seu projeto rode adequadamente será necessário fazer o download das seguintes bibliotecas: 
 - SPI.h
 - Wire.h
 - Adafruit_GFX.h
