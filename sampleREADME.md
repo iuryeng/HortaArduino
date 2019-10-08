@@ -1,6 +1,4 @@
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
-
 # Projeto: Horta Automatizada com Arduino
 
 > IFPB -  Instituto de Federal Ciências e Tecnologia da Paraíba 
@@ -12,21 +10,23 @@
 
 ## Conteúdo
 
-> If you're `README` has a lot of info, section headers might be nice.
+> Esta seção contém a documentação necessária para a implementação do projeto.
 
-- [Instalação do Arduino](#installation)
-- [Download das Bibliotecas](#installation)
-- [Materiais Utilizados](#features)
+- [Instalação da IDE do Arduino](#instalacao)
+- [Download das Bibliotecas](#download)
+- [Algorítimos](#materiais)
 - [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
 - [Support](#support)
 - [License](#license)
 
+---
+## Instalação 
 
+- All the `code` required to get started
+- Images of what it should look like
 ---
 
-## Example (Optional)
+## Download das Bibliotecas (Optional)
 
 ```javascript
 // code away!
