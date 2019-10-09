@@ -28,8 +28,8 @@ Ensinar programação de computadores e inserir o pensamento computacional nas s
 - [Instalação da IDE do Arduino](#instalacao)
 - [Teste](#teste)
 - [Download das Bibliotecas](#download)
-- [Algorítimos](#materiais)
-- [License](#license)
+- [Algorítimos](#algoritmo)
+- [Licença](#licenca)
 
 ---
 ## Instalação 
