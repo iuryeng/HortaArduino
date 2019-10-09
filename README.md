@@ -13,7 +13,7 @@
 
 ## Introdução
 
-Este projeto tem o objetivo de contribuir para o desenvolvimento do pensamento computacional por meio de práticas de programação em C utilizando a placa microcontrolada arduino. Para tal, foi pensado na implementação de uma horta automatizada, ao qual, em sua concepçao, pretende explorar conceitos básicos de programação na linguagem c/c++.
+Este projeto tem o objetivo de contribuir para o desenvolvimento do pensamento computacional por meio de práticas de programação em c/c++ utilizando a placa microcontrolada arduino. Para tal, foi pensado na implementação de uma horta automatizada, ao qual, em sua concepçao, pretende explorar conceitos básicos de programação na linguagem c/c++.
 
 ## Motivação
 
