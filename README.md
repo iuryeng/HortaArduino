@@ -45,124 +45,23 @@ Ensinar programação de computadores e inserir o pensamento computacional nas s
 
 ## Fundamentos de programação em C
 
-### 🔌 Adapter
+### Variavel
 
 <details>
-<summary>View contents</summary>
+<summary>Veja o conteúdo</summary>
 
 * [`ary`](#ary)
-* [`call`](#call)
-* [`collectInto`](#collectinto)
-* [`flip`](#flip)
-* [`over`](#over)
-* [`overArgs`](#overargs)
-* [`pipeAsyncFunctions`](#pipeasyncfunctions)
-* [`pipeFunctions`](#pipefunctions)
-* [`promisify`](#promisify)
-* [`rearg`](#rearg)
-* [`spreadOver`](#spreadover)
-* [`unary`](#unary)
+
 
 </details>
 
-### 📚 Array
+### Array
 
 <details>
-<summary>View contents</summary>
+<summary>Veja o conteúdo</summary>
 
 * [`all`](#all)
-* [`allEqual`](#allequal)
-* [`any`](#any)
-* [`arrayToCSV`](#arraytocsv)
-* [`bifurcate`](#bifurcate)
-* [`bifurcateBy`](#bifurcateby)
-* [`chunk`](#chunk)
-* [`compact`](#compact)
-* [`countBy`](#countby)
-* [`countOccurrences`](#countoccurrences)
-* [`deepFlatten`](#deepflatten)
-* [`difference`](#difference)
-* [`differenceBy`](#differenceby)
-* [`differenceWith`](#differencewith)
-* [`drop`](#drop)
-* [`dropRight`](#dropright)
-* [`dropRightWhile`](#droprightwhile)
-* [`dropWhile`](#dropwhile)
-* [`everyNth`](#everynth)
-* [`filterFalsy`](#filterfalsy)
-* [`filterNonUnique`](#filternonunique)
-* [`filterNonUniqueBy`](#filternonuniqueby)
-* [`findLast`](#findlast)
-* [`findLastIndex`](#findlastindex)
-* [`flatten`](#flatten)
-* [`forEachRight`](#foreachright)
-* [`groupBy`](#groupby)
-* [`head`](#head)
-* [`indexOfAll`](#indexofall)
-* [`initial`](#initial)
-* [`initialize2DArray`](#initialize2darray)
-* [`initializeArrayWithRange`](#initializearraywithrange)
-* [`initializeArrayWithRangeRight`](#initializearraywithrangeright)
-* [`initializeArrayWithValues`](#initializearraywithvalues)
-* [`initializeNDArray`](#initializendarray)
-* [`intersection`](#intersection)
-* [`intersectionBy`](#intersectionby)
-* [`intersectionWith`](#intersectionwith)
-* [`isSorted`](#issorted)
-* [`join`](#join)
-* [`JSONtoCSV`](#jsontocsv-)
-* [`last`](#last)
-* [`longestItem`](#longestitem)
-* [`mapObject`](#mapobject-)
-* [`maxN`](#maxn)
-* [`minN`](#minn)
-* [`none`](#none)
-* [`nthElement`](#nthelement)
-* [`offset`](#offset)
-* [`partition`](#partition)
-* [`permutations`](#permutations-)
-* [`pull`](#pull)
-* [`pullAtIndex`](#pullatindex-)
-* [`pullAtValue`](#pullatvalue-)
-* [`pullBy`](#pullby-)
-* [`reducedFilter`](#reducedfilter)
-* [`reduceSuccessive`](#reducesuccessive)
-* [`reduceWhich`](#reducewhich)
-* [`reject`](#reject)
-* [`remove`](#remove)
-* [`sample`](#sample)
-* [`sampleSize`](#samplesize)
-* [`shank`](#shank)
-* [`shuffle`](#shuffle)
-* [`similarity`](#similarity)
-* [`sortedIndex`](#sortedindex)
-* [`sortedIndexBy`](#sortedindexby)
-* [`sortedLastIndex`](#sortedlastindex)
-* [`sortedLastIndexBy`](#sortedlastindexby)
-* [`stableSort`](#stablesort-)
-* [`symmetricDifference`](#symmetricdifference)
-* [`symmetricDifferenceBy`](#symmetricdifferenceby)
-* [`symmetricDifferenceWith`](#symmetricdifferencewith)
-* [`tail`](#tail)
-* [`take`](#take)
-* [`takeRight`](#takeright)
-* [`takeRightWhile`](#takerightwhile)
-* [`takeWhile`](#takewhile)
-* [`toHash`](#tohash)
-* [`union`](#union)
-* [`unionBy`](#unionby)
-* [`unionWith`](#unionwith)
-* [`uniqueElements`](#uniqueelements)
-* [`uniqueElementsBy`](#uniqueelementsby)
-* [`uniqueElementsByRight`](#uniqueelementsbyright)
-* [`uniqueSymmetricDifference`](#uniquesymmetricdifference)
-* [`unzip`](#unzip)
-* [`unzipWith`](#unzipwith-)
-* [`without`](#without)
-* [`xProd`](#xprod)
-* [`zip`](#zip)
-* [`zipObject`](#zipobject)
-* [`zipWith`](#zipwith-)
+
 
 </details>
 
