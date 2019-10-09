@@ -10,6 +10,7 @@
 > Curso de Engenharia de Computação.
 
 > Autor: Iury Anderson Fernandes Coelho.
+
 > Versão: 0.0.1
 
 ## Introdução
