@@ -23,14 +23,17 @@
 
 ### ary
 
-Creates a function that accepts up to `n` arguments, ignoring any additional arguments.
+### ary
 
-Call the provided function, `fn`, with up to `n` arguments, using `Array.prototype.slice(0,n)` and the spread operator (`...`).
 
-```js
-const ary = (fn, n) => (...args) => fn(...args.slice(0, n));
+- Crie uma variável do tipo inteiro chamada `n` 
+- Atribua a ela o valor 10, com o nome `n`  use `int n` 
+
+```c
+int n = 10; 
+```c
+int n = 10;
 ```
-
 <details>
 <summary>Examples</summary>
 
