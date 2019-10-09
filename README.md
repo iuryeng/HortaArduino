@@ -5,7 +5,7 @@
 
 > Núcleo de Inovação e Tecnolgia Educacional.
 
-> Projeto de Extensão: Inclusão Digital por meio do ensino de programação: contribuições de uma pesquisa-ação educacional
+> Projeto de Extensão: Inclusão Digital por meio do ensino da programação
 
 > Curso de Engenharia de Computação.
 
