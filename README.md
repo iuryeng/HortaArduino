@@ -21,7 +21,7 @@ Ensinar programação de computadores e inserir o pensamento computacional nas s
 
 ## O Protótipo
 
-## Conteúdo
+## Documentação
 
 > Esta seção contém os links das documentações necessárias para a implementação do projeto.
 
