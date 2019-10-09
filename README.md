@@ -47,10 +47,10 @@ Ensinar programação de computadores e inserir o pensamento computacional nas s
 > Para que seu projeto rode adequadamente será necessário que você faça o download das seguintes bibliotecas: 
 
 - SPI.h
-- Wire.h
-- Adafruit_GFX.h
-- Adafruit_SSD1306.h
-- DallasTemperature.h
+- Wire.h:
+- Adafruit_GFX.h: https://codeload.github.com/adafruit/Adafruit-GFX-Library/zip/master
+- Adafruit_SSD1306.h: https://codeload.github.com/adafruit/Adafruit_SSD1306/zip/master
+- DallasTemperature.h: 
 
 ## Algorítimos em C/C++
 > Nesta seção serão apresentados os algorítimos implementados para o perfeito funcionamento do prototipo.
