@@ -1,9 +1,11 @@
 
-# Horta Automatizada com Arduino
+# Oficinas de programação em C com arduino
 
 > IFPB -  Instituto de Federal Ciências e Tecnologia da Paraíba. 
 
 > Núcleo de Inovação e Tecnolgia Educacional.
+
+> Projeto de Extensão: Inclusão Digital por meio do ensino de programação: contribuições de uma pesquisa-ação educacional
 
 > Curso de Engenharia de Computação.
 
@@ -11,8 +13,13 @@
 
 ## Introdução
 
-Este projeto tem o objetivo de contribuir para o desenvolvimento do pensamento computacional por meio de práticas de programação em C utilizando a placa microcontrolada arduino. Para tal, foi pensado na implementação de uma horta automatizada, ao qual, em sua concepçao, contém conceitos básicos de programação na linguagem c/c++.
+Este projeto tem o objetivo de contribuir para o desenvolvimento do pensamento computacional por meio de práticas de programação em C utilizando a placa microcontrolada arduino. Para tal, foi pensado na implementação de uma horta automatizada, ao qual, em sua concepçao, pretende explorar conceitos básicos de programação na linguagem c/c++.
 
+## Motivação
+
+Ensinar programação de computadores e inserir o pensamento computacional nas salas de aula das escolas brasileiras têm sido um grande desafio, pois apensar de possuir várias  oportunidades de pesquisa e inovação no aprendizado de conteúdos tradcionais ensinados em sala de aula, a programação de computadores não é uma tarefa simple e requer do indivíduo o desenvolvimento do pensamento computacional.   Nesse contexto, este projeto pretende encorajar professores e alunos a adentrar no mundo digital da programação de computadores de uma maneira prática e divertida.
+
+## O Protótipo
 
 ## Conteúdo
 
