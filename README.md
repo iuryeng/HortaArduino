@@ -22,8 +22,6 @@ Este projeto tem o objetivo de contribuir para o desenvolvimento do pensamento c
 - [Teste](#teste)
 - [Download das Bibliotecas](#download)
 - [Algorítimos](#materiais)
-- [Contributing](#contributing)
-- [Support](#support)
 - [License](#license)
 
 ---
