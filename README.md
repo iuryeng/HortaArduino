@@ -5,11 +5,12 @@
 
 > Núcleo de Inovação e Tecnolgia Educacional.
 
-> Projeto de Extensão: Inclusão Digital por meio do ensino da programação
+> Projeto de Extensão: Inclusão Digital por meio do ensino da programação.
 
 > Curso de Engenharia de Computação.
 
-> Autor: Iury Anderson Fernandes Coelho
+> Autor: Iury Anderson Fernandes Coelho.
+> Versão: 0.0.1
 
 ## Introdução
 
