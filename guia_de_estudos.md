@@ -6,7 +6,7 @@
 <details>
 <summary>Veja o conteúdo</summary>
 
-* [`ary`](#ary)
+* [`Crie uma variável`](#veriavel)
 
 
 </details>
@@ -21,9 +21,9 @@
 
 </details>
 
-### ary
 
-### ary
+
+### variável
 
 
 - Crie uma variável do tipo inteiro chamada `n` 
@@ -32,10 +32,10 @@
 ```c
 int n = 10; 
 ```c
-int n = 10;
-```
+
+
 <details>
-<summary>Examples</summary>
+<summary>Examplos</summary>
 
 ```js
 const firstTwoMax = ary(Math.max, 2);
