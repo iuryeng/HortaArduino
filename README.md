@@ -53,7 +53,7 @@ Ensinar programação de computadores e inserir o pensamento computacional nas s
 - DallasTemperature.h
 
 ## Algorítimos em C/C++
-> Nesta seção serão apresentados os algorítimos e suas respectivas finalidades
+> Nesta seção serão apresentados os algorítimos implementados para o perfeito funcionamento do prototipo.
 
 - Algorítimo 1
 - __Propósito: medição da temperatura com sensor digital DS18B20__
