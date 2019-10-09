@@ -40,31 +40,6 @@ Ensinar programação de computadores e inserir o pensamento computacional nas s
 - você irá precisar instalar a IDE do arduino para poder programa-lo;
 - entre em: https://www.arduino.cc/en/Main/Software e faça o downlaod da IDE do arduino de acordo com as especificações de seu sistema operacional.
 
-## Teste 
-
-
-## Fundamentos de programação em C
-
-### Variavel
-
-<details>
-<summary>Veja o conteúdo</summary>
-
-* [`ary`](#ary)
-
-
-</details>
-
-### Array
-
-<details>
-<summary>Veja o conteúdo</summary>
-
-* [`all`](#all)
-
-
-</details>
-
 ## Download das Bibliotecas
 > Para que seu projeto rode adequadamente será necessário que você faça o download das seguintes bibliotecas: 
 
