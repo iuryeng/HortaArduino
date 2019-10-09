@@ -1,5 +1,5 @@
 
-# Oficinas de programação em C com arduino
+# Oficinas de programação com arduino
 
 > IFPB -  Instituto de Federal Ciências e Tecnologia da Paraíba. 
 
