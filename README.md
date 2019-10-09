@@ -44,7 +44,7 @@ Ensinar programação de computadores e inserir o pensamento computacional nas s
 
 
 ## Download das Bibliotecas
-> Para que seu projeto rode adequadamente será necessário que você baixe as bibliotecas listadas abaixo: 
+> Para que seu projeto rode adequadamente será necessário que você faça o download das seguintes bibliotecas: 
 
 - SPI.h
 - Wire.h
