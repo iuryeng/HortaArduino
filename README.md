@@ -19,7 +19,7 @@ Este projeto tem o objetivo de contribuir para o desenvolvimento do pensamento c
 
 ## Motivação
 
-Ensinar programação de computadores e inserir o pensamento computacional nas salas de aula das escolas brasileiras têm sido um grande desafio. A escrita de códigos e algorítimos têm possbilitado a inovação do aprendizado de conteúdos tradicionais ensinados em sala de aula, além de ser a principal ferramenta para o desenvolvimento de aplicatvos para dispositvos mobile e desktop. Entretanto, a programação de computadores não é uma tarefa simple e requer do indivíduo o desenvolvimento do pensamento computacional. Esse tipo de observação diz respeito à lógica computacional, abstrações e escrita de algorítimos. Nesse contexto, este projeto pretende encorajar professores e alunos a adentrar no mundo digital da programação de computadores de uma maneira prática e divertida através de oficinas de programação usando o arduino.
+Ensinar programação de computadores e inserir o pensamento computacional no cotidiano das escolas brasileiras têm sido um grande desafio. A escrita de códigos e algorítimos têm possbilitado a inovação do aprendizado além ser a principal ferramenta para o desenvolvimento de aplicatvos para dispositvos mobile e desktop. Entretanto, a programação de computadores não é uma tarefa simple e requer do indivíduo o desenvolvimento do pensamento computacional. Esse tipo de observação diz respeito à lógica computacional, abstrações e escrita de algorítimos. Nesse contexto, este projeto pretende encorajar professores e alunos a adentrar no mundo digital da programação de computadores de uma maneira prática e divertida através da programação do arduino.
 
 ## O Protótipo
 
