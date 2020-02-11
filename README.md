@@ -208,6 +208,8 @@ void loop(){
 
 ![image](umidade_rele_display.png)
 
+> Leitura da temperatura : 
+![image](temp.png)
 ---
 
 
