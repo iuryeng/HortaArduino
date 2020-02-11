@@ -219,5 +219,5 @@ void loop(){
 
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2019 © <a href="">Iury Coelho</a>.
+- Copyright 2020 © <a href="">Iury Coelho</a>.
 
