@@ -1,5 +1,5 @@
 
-# Oficinas de programação com arduino
+# Horta automatizada com arduino
 
 > IFPB -  Instituto de Federal Ciências e Tecnologia da Paraíba. 
 
