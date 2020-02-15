@@ -28,7 +28,6 @@ Ensinar programação de computadores e inserir o pensamento computacional no co
 > Esta seção contém os links das documentações necessárias para a implementação do projeto.
 
 - [Instalação da IDE do Arduino](#instalacao)
-- [Guia de Aprendizado](#aprendizado)
 - [Download das Bibliotecas](#download)
 - [Algorítimos](#algoritmo)
 - [Licença](#licenca)
