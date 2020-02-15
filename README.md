@@ -119,7 +119,7 @@ void setup()
 // inicialize as definiçoes que irão ser tratadas no loop infinito do arduino
 void loop()
 {
-  // declare a variável global sendo o valor lido na porta analogica A0
+  // declare a variável global sendo o valor lido na porta analogica A1
   valor_lido = analogRead(analogico);                         
 
   //imprima para o usuário o valor do sensor 
